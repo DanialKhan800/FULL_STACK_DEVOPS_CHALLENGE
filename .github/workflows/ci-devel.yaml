@@ -44,7 +44,7 @@ jobs:
         folder: build
         bucket: "fullstack-challenge-react-devel"
         bucket-region: "us-east-1"
-        dist-id: "E3BUIOH8PPGQTF"
+        dist-id: "E28D2MYBE1WASF"
         invalidation: /
         delete-removed: true
         no-cache: true
